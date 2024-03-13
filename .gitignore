@@ -1,0 +1,30 @@
+.DC_Store
+
+# WEB APP
+
+# Logs
+finance-dashboard-web/logs
+finance-dashboard-web/*.log
+finance-dashboard-web/npm-debug.log*
+finance-dashboard-web/yarn-debug.log*
+finance-dashboard-web/yarn-error.log*
+finance-dashboard-web/pnpm-debug.log*
+finance-dashboard-web/lerna-debug.log*
+
+finance-dashboard-web/node_modules
+finance-dashboard-web/dist
+finance-dashboard-web/dist-ssr
+finance-dashboard-web/*.local
+
+finance-dashboard-web/.env.local
+
+# Editor directories and files
+finance-dashboard-web/.vscode/*
+finance-dashboard-web/!.vscode/extensions.json
+finance-dashboard-web/.idea
+finance-dashboard-web/.DS_Store
+finance-dashboard-web/*.suo
+finance-dashboard-web/*.ntvs*
+finance-dashboard-web/*.njsproj
+finance-dashboard-web/*.sln
+finance-dashboard-web/*.sw?
