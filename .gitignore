@@ -28,3 +28,8 @@ finance-dashboard-web/*.ntvs*
 finance-dashboard-web/*.njsproj
 finance-dashboard-web/*.sln
 finance-dashboard-web/*.sw?
+
+# Local
+.vscode/
+finance-dashboard-web/.prettierrc
+.DS_Store
